@@ -1,0 +1,11 @@
+type,difficulty,category,question,correct_answer,incorrect_answers
+boolean,hard,Science: Mathematics,The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;,False,['True']
+boolean,medium,Science: Mathematics,You can square root a negative number with an imaginary number &quot;i&quot;.,True,['False']
+boolean,medium,Science: Mathematics,A &#039;Millinillion&#039; is a real number.,True,['False']
+boolean,easy,Science: Mathematics,The sum of any two odd integers is odd.,False,['True']
+boolean,hard,Science: Mathematics,L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.,False,['True']
+boolean,hard,Science: Mathematics,"In Topology, the complement of an open set is a closed set.",True,['False']
+boolean,medium,Science: Mathematics,"111,111,111 x 111,111,111 = 12,345,678,987,654,321",True,['False']
+boolean,easy,Science: Mathematics,"A universal set, or a set that contains all sets, exists.",False,['True']
+boolean,hard,Science: Mathematics,"If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.",True,['False']
+boolean,medium,Science: Mathematics,The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.,False,['True']

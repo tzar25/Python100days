@@ -1,0 +1,15 @@
+h2 {
+    color: blue;
+}
+.red-text {
+    color: red;
+}
+#main {
+    color: green;
+}
+p[draggable] {
+    color: purple;
+}
+* {
+    color: teal;
+}

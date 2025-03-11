@@ -1,0 +1,10 @@
+
+Paddle
+    position
+    collision
+
+ball
+    position
+    vector
+
+score

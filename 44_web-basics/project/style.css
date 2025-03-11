@@ -1,0 +1,32 @@
+/*@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");*/
+
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black !important; /*PyCharm doesn't seem to like changing  the bg-color of the body*/
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px auto;
+}
+
+img {
+  border: 5px solid white;
+}
+
+h1 {
+  font-family: "Libre Baskerville", sans-serif;
+  margin: 25px 15px;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 20px;
+}
